@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working on IoT and Embedded Systems<br>🤝 I’m looking for help with IoT, Embedded Systems and Kernel Development<br>🌱 I’m currently learning Embedded Systems<br>⚡ I'm an Electronics Engineer. <br>🐧I use Arch btw <br> 
+🔭 I’m Currently Working on IoT and Embedded Systems<br>🤝 I’m looking for help with IoT, Embedded Systems and Kernel Development<br>🌱 I’m currently learning Embedded Systems<br>⚡ I'm an Electronics Engineer. <br>🐧I use Arch btw <br> 🌱 MERN Stack Developer
 
 
 ## 🌐 Socials:
