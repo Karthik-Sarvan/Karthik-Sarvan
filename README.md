@@ -1,3 +1,6 @@
+
+![Sarvan Karthik (2)](https://github.com/user-attachments/assets/7baad317-d96e-4cdd-a3c0-d540798bd49d)
+
 # 💫 About Me:
 🔭 I’m Currently Working on IoT and Embedded Systems<br>🤝 I’m looking for help with IoT, Embedded Systems and Kernel Development<br>🌱 I’m currently learning Embedded Systems<br>⚡ I'm an Electronics Engineer. <br>🐧 I use Arch btw <br> 🌱 MERN Stack Developer at Spotmies
 
