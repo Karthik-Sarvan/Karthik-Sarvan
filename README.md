@@ -22,7 +22,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Karthik-Sarvan&theme=radical)
 
 ## 🖥️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 
 ## ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
