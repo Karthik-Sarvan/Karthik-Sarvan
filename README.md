@@ -5,7 +5,7 @@
 
   <br/>
 
-  <!-- Dynamic Typing Intro: APPLIED "ZILLA SLAB" (Mozilla Headline Font) HERE -->
+  <!-- Dynamic Typing Intro: Font "Zilla Slab" (Mozilla Headline) -->
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Zilla+Slab&weight=700&size=38&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sarvan+Karthik;Electronics+Engineer+%26+Firmware+Dev;Architecting+IoT+%26+Embedded+Systems;Arch+Linux+Enthusiast" alt="Sarvan Karthik Typing Intro" />
@@ -27,12 +27,9 @@
 
 </div>
 
-<!-- Ornamental Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900" />
-</div>
+---
 
-### 👨‍💻 <span style="font-family: 'Zilla Slab', serif; color: #D4AF37;">About Me</span>
+### 👨‍💻 <span style="color: #D4AF37;">About Me</span>
 
 I am an **Electronics Engineer** passionate about the convergence of hardware and software. My expertise lies in **IoT Solutions**, **Firmware Development**, and low-level system optimization. I am a strong advocate for open-source ecosystems and a daily user of **Arch Linux**.
 
@@ -40,13 +37,10 @@ I am an **Electronics Engineer** passionate about the convergence of hardware an
 
 - 🔭 **Current Focus:** Developing scalable **IoT Architectures** and bare-metal **Embedded C/C++**.
 - 🌱 **Researching:** Advanced **Linux Kernel Development**, Device Drivers, and **RTOS** implementation.
-- 🤝 **Collaboration:** Open to contributing to **Open Source Firmware**, **PCB Design**, and Kernel modules.
+- 🤝 **Collaboration:** Open to contributing to **Open Source Firmware** and Kernel modules.
 - 🐧 **Environment:** `Arch Linux` (Hyprland/Bspwm) — *I use Arch btw.*
 
-<!-- Ornamental Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900" />
-</div>
+---
 
 ### 🛠️ <span style="color: #D4AF37;">Technical Arsenal</span>
 
@@ -58,14 +52,12 @@ I am an **Electronics Engineer** passionate about the convergence of hardware an
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" width="48"/><br>Rust</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
     </tr>
     <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>AVR</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48"/><br>RPi</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kicad" width="48"/><br>KiCad</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=matlab" width="48"/><br>Matlab</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
     </tr>
   </table>
@@ -73,10 +65,7 @@ I am an **Electronics Engineer** passionate about the convergence of hardware an
 
 <br/>
 
-<!-- Ornamental Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900" />
-</div>
+---
 
 ### 📊 <span style="color: #D4AF37;">GitHub Analytics</span>
 
