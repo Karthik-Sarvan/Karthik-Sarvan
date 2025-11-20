@@ -8,7 +8,7 @@
   <!-- Dynamic Typing Intro: Changed to "Cinzel" font for the Royal/Elegant look -->
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Greetings,+I+am+Sarvan+Karthik;Architecting+Hardware-Software+Synergy;Electronics+Engineer+%26+Firmware+Specialist;Arch+Linux+Power+User" alt="Sarvan Karthik Typing Intro" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=1000&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Greetings,+I+am+Sarvan+Karthik;Architecting+Hardware-Software+Synergy;Electronics+Engineer+%26+Firmware+Specialist;Arch+Linux+Power+User" alt="Sarvan Karthik Typing Intro" />
     </a>
   </h1>
 
