@@ -20,9 +20,6 @@
     <a href="https://x.com/Karthik__Sarvan">
       <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
     </a>
-    <a href="https://karthiksarvan.me/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
-    </a>
   </p>
 
 </div>
