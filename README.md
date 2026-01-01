@@ -68,7 +68,7 @@ I am an **Electronics Engineer** passionate about the convergence of hardware an
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
   <br>
   <p><i>"Hardware is the body, Software is the soul."</i></p>
-  <a href="https://karthiksarvan.me/">
+  <a href="https://karthik-sarvan.github.io/Karthik/">
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=arrow-right&logoColor=D4AF37" alt="Portfolio">
   </a>
 </div>
