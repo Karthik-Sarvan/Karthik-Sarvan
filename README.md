@@ -64,16 +64,6 @@ I am an **Electronics Engineer** passionate about the convergence of hardware an
 
 ---
 
-### 📊 <span style="color: #D4AF37;">GitHub Analytics</span>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-sarvan&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-sarvan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
   <br>
