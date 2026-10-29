@@ -2,7 +2,7 @@
 
 # Hi, I'm Karthik 👋
 
-<img src="https://github.com/user-attachments/assets/2b153052-a819-4242-b188-e2cc3faa22d9" alt="Karthik Sarvan Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/2b153052-a819-4242-b188-e2cc3faa22d9" alt="Karthik Sarvan Banner" width="100%" style="border-radius: 12px;" />
 
 <br/>
 <br/>
