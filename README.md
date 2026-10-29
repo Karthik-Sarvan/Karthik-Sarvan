@@ -1,22 +1,24 @@
+<div style="font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
 # Hi, I'm Karthik 👋
 
 <img src="https://github.com/user-attachments/assets/2b153052-a819-4242-b188-e2cc3faa22d9" alt="Karthik Sarvan Banner" width="100%" />
 
-I am an embedded firmware engineer and open-source systems developer working at the boundary of bare-metal silicon and operating systems. My focus is low-level firmware (STM32, ESP32, FreeRTOS) and upstream contributions to the Linux graphics stack (**Mesa 3D** and **Linux DRM/VKMS**).
+<br/>
+<br/>
 
----
+I am an embedded firmware engineer, open-source developer, and the maintainer of **[Mimic](https://Mimic.aegiondynamic.com)**.
 
-### Upstream & Open Source
-
-- **Mesa 3D:** Upstream contributor to Gallium drivers (`zink`, `lavapipe`)
-- **Linux Kernel:** Display driver and KMS patches on `dri-devel` (`drivers/gpu/drm/vkms`)
-- **Firmware & Tooling:** Bare-metal C/C++, Rust, serial protocols (I2C, SPI, UART, CAN), and hardware emulation frameworks
+I am interested in contributing to open-source Mesa, the Linux kernel, and graphics stack development.
 
 ---
 
 ### Find me around the web 🌐
 
-- Exploring projects and interactive builds on my [Portfolio](https://karthik.qzz.io)
+- Upstream activity & contributions on [Freedesktop GitLab](https://gitlab.freedesktop.org/karthik-sarvan)
+- Projects and interactive builds on my [Portfolio](https://karthik.qzz.io)
 - Sharing development updates on [X / Twitter](https://x.com/Karthik__Sarvan)
-- Professional background and connections on [LinkedIn](https://linkedin.com/in/karthik-sarvan)
+- Professional background on [LinkedIn](https://linkedin.com/in/karthik-sarvan)
 - Direct inquiries via [Email](mailto:karthiks1mail@gmail.com)
+
+</div>
