@@ -1,0 +1,4 @@
+/.atl/
+/.claude*
+__pycache__/
+*.pyc

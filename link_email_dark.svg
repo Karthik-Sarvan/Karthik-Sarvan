@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="339.333px" height="60px"
+     viewBox="0 0 339.333 60" font-family="ConsolasFallback,Consolas,Menlo,monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text {white-space: pre;}
+.px {shape-rendering: crispEdges;}
+</style>
+<g class="px">
+<path d="M12.3333 0h324v3h3v54h-3v3h-324v-3h-3v-54h3z" fill="#363c43"/>
+<path d="M15.3333 3h318v3h3v48h-3v3h-318v-3h-3v-48h3z" fill="#161b22"/>
+<rect x="15.3333" y="54" width="318" height="3" fill="#D97757"/>
+<g fill="#D97757" transform="translate(141.36,28.5)"><g><animateTransform attributeName="transform" type="translate" values="0,0;-3,0;3,0;-3,0;3,0;0,0" keyTimes="0;0.7;0.74;0.78;0.82;0.86" dur="2.4s" calcMode="discrete" repeatCount="indefinite"/><path d="M-15 -12h30v3h-30zM-15 -9h6v3h-6zM9 -9h6v3h-6zM-15 -6h3v3h-3zM-9 -6h3v3h-3zM6 -6h3v3h-3zM12 -6h3v3h-3zM-15 -3h3v3h-3zM-6 -3h3v3h-3zM3 -3h3v3h-3zM12 -3h3v3h-3zM-15 0h3v3h-3zM-3 0h6v3h-6zM12 0h3v3h-3zM-15 3h3v3h-3zM12 3h3v3h-3zM-15 6h3v3h-3zM12 6h3v3h-3zM-15 9h30v3h-30z"/></g></g>
+</g>
+<text x="168.36" y="34.80" font-size="18px" fill="#c9d1d9">EMAIL</text>
+</svg>

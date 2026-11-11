@@ -1,24 +1,13 @@
-<div style="font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<a href="https://karthik.qzz.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/dark_mode.svg">
+    <img alt="Karthik Sarvan - Embedded & Systems Engineer" src="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/light_mode.svg">
+  </picture>
+</a>
 
-# Hi, I'm Karthik 👋
+<p align="left"><a href="https://karthik.qzz.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_portfolio_dark.svg"><img alt="Portfolio" width="33.3%" src="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_portfolio_light.svg"></picture></a><a href="https://linkedin.com/in/karthik-sarvan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="33.3%" src="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_linkedin_light.svg"></picture></a><a href="mailto:karthiks1mail@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_email_dark.svg"><img alt="Email" width="33.3%" src="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/link_email_light.svg"></picture></a></p>
 
-<img src="https://github.com/user-attachments/assets/2b153052-a819-4242-b188-e2cc3faa22d9" alt="Karthik Sarvan Banner" width="100%" style="border-radius: 12px;" />
-
-<br/>
-<br/>
-
-I am an embedded firmware engineer, open-source developer, and the maintainer of **[Mimic](https://Mimic.aegiondynamic.com)**.
-
-I am interested in contributing to open-source Mesa, the Linux kernel, and graphics stack development.
-
----
-
-### Find me around the web 🌐
-
-- Upstream activity & contributions on [Freedesktop GitLab](https://gitlab.freedesktop.org/karthik-sarvan)
-- Projects and interactive builds on my [Portfolio](https://karthik.qzz.io)
-- Sharing development updates on [X / Twitter](https://x.com/Karthik__Sarvan)
-- Professional background on [LinkedIn](https://linkedin.com/in/karthik-sarvan)
-- Direct inquiries via [Email](mailto:karthiks1mail@gmail.com)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/pacman_dark.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Karthik-Sarvan/Karthik-Sarvan/main/pacman_light.svg">
+</picture>
