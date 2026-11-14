@@ -5,22 +5,22 @@
 &nbsp;
 
   <p>
-    <a href="https://karthik.qzz.io/" title="Portfolio">
+    <a target="_blank" href="https://karthik.qzz.io/" title="Portfolio">
       <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" width="22" height="22" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://karthik.qzz.io/blog" title="Blog">
+    <a target="_blank" href="https://karthik.qzz.io/blog" title="Blog">
       <img src="https://api.iconify.design/mdi/book-open-page-variant.svg?color=%23FFFFFF" alt="Blog" width="25" height="25" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://karthik.qzz.io/rss.xml" title="RSS">
+    <a target="_blank" href="https://karthik.qzz.io/rss.xml" title="RSS">
       <img src="https://cdn.simpleicons.org/rss" alt="RSS" width="22" height="22" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/karthik-sarvan" title="LinkedIn">
+    <a target="_blank" href="https://linkedin.com/in/karthik-sarvan" title="LinkedIn">
       <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="25" height="25" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://gitlab.freedesktop.org/karthik-sarvan" title="GitLab">
+    <a target="_blank" href="https://gitlab.freedesktop.org/karthik-sarvan" title="GitLab">
       <img src="https://cdn.simpleicons.org/gitlab" alt="GitLab" width="22" height="22" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:karthiks1mail@gmail.com" title="Email">
+    <a target="_blank" href="mailto:karthiks1mail@gmail.com" title="Email">
       <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="22" height="22" />
     </a>
   </p>
