@@ -2,8 +2,7 @@
 
 <div align="center">
   <img src="./banner.png" alt="Karthik Sarvan — Developer and Engineer" />
-
-  <br />
+&nbsp;
 
   <p>
     <a href="https://karthik.qzz.io/" title="Portfolio">
